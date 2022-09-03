@@ -1,0 +1,53 @@
+.body{
+    margin: 0;
+}
+.container{
+    display: flex;
+    background-color: hsl(30, 38%, 92%);
+    border: 20px solid ;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.content{
+    width: 1095px;
+    background-color: white;
+    border: 2px;
+    display: flex;
+}
+.content-info{
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info-title{
+    color: hsl(228, 12%, 48%);
+    font-size: 22px;
+}
+.info-subtitle{
+    font-size: 39px;
+}
+.info-description{
+    font-size: 22px;
+}
+.price-descuent{
+    color: hsl(158, 36%, 37%);
+    font-size: 45px;
+}
+.price-origin{
+    color: hsl(212, 21%, 14%);
+    font-size: 25px;
+}
+.button{
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(30, 38%, 92%);
+    font-size: 30px;
+    padding: 15px;
+    border: 0px;
+    border-radius: 8px;
+    width: 100%;
+    
+}
