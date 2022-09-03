@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(133, 192, 247);
+    border: 2px dotted green;
+    padding: 20px;
+    text-transform: uppercase;
+    width: 100%;
+    margin-bottom: 20px;
+    
+    /* border-width: 5px; */
+    /* border-style: dotted; */
+    /* border-color: peru; */
+}
